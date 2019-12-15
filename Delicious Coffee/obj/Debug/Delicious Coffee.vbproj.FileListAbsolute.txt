@@ -1,0 +1,11 @@
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\bin\Debug\Delicious Coffee.exe.config
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\bin\Debug\Delicious Coffee.exe
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\bin\Debug\Delicious Coffee.pdb
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\bin\Debug\Delicious Coffee.xml
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious Coffee.vbprojResolveAssemblyReference.cache
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious_Coffee.Form1.resources
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious_Coffee.Resources.resources
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious Coffee.vbproj.GenerateResource.Cache
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious Coffee.exe
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious Coffee.xml
+c:\users\aidan\documents\visual studio 2015\Projects\Delicious Coffee\Delicious Coffee\obj\Debug\Delicious Coffee.pdb
